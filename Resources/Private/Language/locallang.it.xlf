@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" target-language="it" datatype="plaintext" original="EXT:featvalue/Resources/Private/Language/locallang.xlf" date="2026-09-23T21:00:00Z" product-name="featvalue">
+        <header/>
+        <body>
+            <trans-unit id="module.title" resname="module.title" approved="yes"><source>FeatValue</source><target>FeatValue</target></trans-unit>
+            <trans-unit id="module.description" resname="module.description" approved="yes"><source>FeatValue client portal</source><target>Portale clienti FeatValue</target></trans-unit>
+            <trans-unit id="module.tasks" resname="module.tasks" approved="yes"><source>Tasks</source><target>Attività</target></trans-unit>
+            <trans-unit id="settings.heading" resname="settings.heading" approved="yes"><source>FeatValue</source><target>FeatValue</target></trans-unit>
+            <trans-unit id="settings.connect" resname="settings.connect" approved="yes"><source>Connect with FeatValue</source><target>Connetti con FeatValue</target></trans-unit>
+            <trans-unit id="settings.disconnect" resname="settings.disconnect" approved="yes"><source>Disconnect</source><target>Disconnetti</target></trans-unit>
+            <trans-unit id="settings.connected" resname="settings.connected" approved="yes"><source>This website is connected with FeatValue.</source><target>Questo sito è connesso a FeatValue.</target></trans-unit>
+            <trans-unit id="settings.notConnected" resname="settings.notConnected" approved="yes"><source>This website is not connected yet.</source><target>Questo sito non è ancora connesso.</target></trans-unit>
+            <trans-unit id="settings.siteType" resname="settings.siteType" approved="yes"><source>What kind of website is this?</source><target>Che tipo di sito è?</target></trans-unit>
+            <trans-unit id="settings.siteType.permanent" resname="settings.siteType.permanent" approved="yes"><source>This choice is permanent and cannot be changed later.</source><target>Questa scelta è definitiva e non può essere modificata in seguito.</target></trans-unit>
+            <trans-unit id="settings.siteType.client" resname="settings.siteType.client" approved="yes"><source>Client site (single client)</source><target>Sito cliente (un cliente)</target></trans-unit>
+            <trans-unit id="settings.siteType.clientHelp" resname="settings.siteType.clientHelp" approved="yes"><source>Tasks for this client can only be managed on this website.</source><target>Le attività di questo cliente si gestiscono solo su questo sito.</target></trans-unit>
+            <trans-unit id="settings.siteType.agency" resname="settings.siteType.agency" approved="yes"><source>Agency site (multi-user setup)</source><target>Sito agenzia (più utenti)</target></trans-unit>
+            <trans-unit id="settings.siteType.agencyHelp" resname="settings.siteType.agencyHelp" approved="yes"><source>This is the website of the service provider or agency with a multi-user setup.</source><target>Questo è il sito del fornitore di servizi o dell’agenzia con più utenti.</target></trans-unit>
+            <trans-unit id="settings.save" resname="settings.save" approved="yes"><source>Save</source><target>Salva</target></trans-unit>
+            <trans-unit id="settings.client" resname="settings.client" approved="yes"><source>Client</source><target>Cliente</target></trans-unit>
+            <trans-unit id="settings.sso" resname="settings.sso" approved="yes"><source>Sign in with TYPO3 accounts</source><target>Accedi con gli account TYPO3</target></trans-unit>
+            <trans-unit id="settings.ssoHelp" resname="settings.ssoHelp" approved="yes"><source>Premium. Backend users sign in inside the TYPO3 backend. Frontend users sign in on the website.</source><target>Premium. Gli utenti backend accedono nel backend TYPO3, gli utenti frontend sul sito.</target></trans-unit>
+            <trans-unit id="settings.tasks" resname="settings.tasks" approved="yes"><source>Open tasks</source><target>Apri le attività</target></trans-unit>
+            <trans-unit id="content.dashboard" resname="content.dashboard" approved="yes"><source>FeatValue Dashboard</source><target>Dashboard FeatValue</target></trans-unit>
+            <trans-unit id="content.height" resname="content.height" approved="yes"><source>Height</source><target>Altezza</target></trans-unit>
+            <trans-unit id="content.notConnected" resname="content.notConnected" approved="yes"><source>FeatValue is not connected.</source><target>FeatValue non è connesso.</target></trans-unit>
+            <trans-unit id="content.finishSetup" resname="content.finishSetup" approved="yes"><source>Finish FeatValue setup before opening the dashboard.</source><target>Completi la configurazione di FeatValue prima di aprire la dashboard.</target></trans-unit>
+            <trans-unit id="content.ssoLoginRequired" resname="content.ssoLoginRequired" approved="yes"><source>Please log in to view the dashboard.</source><target>Acceda per vedere la dashboard.</target></trans-unit>
+            <trans-unit id="content.emailVerification" resname="content.emailVerification" approved="yes"><source>Please confirm your email address.</source><target>Confermi il Suo indirizzo e-mail.</target></trans-unit>
+            <trans-unit id="content.resend" resname="content.resend" approved="yes"><source>Send verification email again</source><target>Invia di nuovo l’e-mail di verifica</target></trans-unit>
+            <trans-unit id="task.mailRelay.title" resname="task.mailRelay.title" approved="yes"><source>FeatValue mail relay</source><target>Relay e-mail FeatValue</target></trans-unit>
+            <trans-unit id="task.mailRelay.description" resname="task.mailRelay.description" approved="yes"><source>Pulls pending FeatValue emails and sends them through TYPO3 mail.</source><target>Preleva le e-mail FeatValue in attesa e le invia tramite TYPO3.</target></trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="FeatValue">
+  <rect width="64" height="64" rx="12" fill="#F2726C"/>
+  <g fill="#fff" transform="translate(6 16.5) scale(0.275) translate(-250 -15)">
+    <path d="M255.8,23.1L289,83.6h68.5l17.8,36.8h9.4l48.2-97.4H255.8z M293.7,75.1l-23.1-43.6h61.2l21.6,43.6H293.7z M379.9,111L341,31.5h78.5L379.9,111z"/>
+    <polygon points="296,96.7 309.1,120.4 318.5,120.4 305.7,96.7"/>
+  </g>
+</svg>

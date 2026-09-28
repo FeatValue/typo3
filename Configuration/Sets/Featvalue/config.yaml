@@ -1,0 +1,4 @@
+name: featvalue/dashboard
+label: FeatValue Dashboard
+dependencies:
+  - typo3/fluid-styled-content

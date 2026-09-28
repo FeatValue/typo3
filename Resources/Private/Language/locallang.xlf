@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="EXT:featvalue/Resources/Private/Language/locallang.xlf" date="2026-09-23T21:00:00Z" product-name="featvalue">
+        <header/>
+        <body>
+            <trans-unit id="module.title" resname="module.title"><source>FeatValue</source></trans-unit>
+            <trans-unit id="module.description" resname="module.description"><source>FeatValue client portal</source></trans-unit>
+            <trans-unit id="module.tasks" resname="module.tasks"><source>Tasks</source></trans-unit>
+            <trans-unit id="settings.heading" resname="settings.heading"><source>FeatValue</source></trans-unit>
+            <trans-unit id="settings.connect" resname="settings.connect"><source>Connect with FeatValue</source></trans-unit>
+            <trans-unit id="settings.disconnect" resname="settings.disconnect"><source>Disconnect</source></trans-unit>
+            <trans-unit id="settings.connected" resname="settings.connected"><source>This website is connected with FeatValue.</source></trans-unit>
+            <trans-unit id="settings.notConnected" resname="settings.notConnected"><source>This website is not connected yet.</source></trans-unit>
+            <trans-unit id="settings.siteType" resname="settings.siteType"><source>What kind of website is this?</source></trans-unit>
+            <trans-unit id="settings.siteType.permanent" resname="settings.siteType.permanent"><source>This choice is permanent and cannot be changed later.</source></trans-unit>
+            <trans-unit id="settings.siteType.client" resname="settings.siteType.client"><source>Client site (single client)</source></trans-unit>
+            <trans-unit id="settings.siteType.clientHelp" resname="settings.siteType.clientHelp"><source>Tasks for this client can only be managed on this website.</source></trans-unit>
+            <trans-unit id="settings.siteType.agency" resname="settings.siteType.agency"><source>Agency site (multi-user setup)</source></trans-unit>
+            <trans-unit id="settings.siteType.agencyHelp" resname="settings.siteType.agencyHelp"><source>This is the website of the service provider or agency with a multi-user setup.</source></trans-unit>
+            <trans-unit id="settings.save" resname="settings.save"><source>Save</source></trans-unit>
+            <trans-unit id="settings.client" resname="settings.client"><source>Client</source></trans-unit>
+            <trans-unit id="settings.sso" resname="settings.sso"><source>Sign in with TYPO3 accounts</source></trans-unit>
+            <trans-unit id="settings.ssoHelp" resname="settings.ssoHelp"><source>Premium. Backend users sign in inside the TYPO3 backend. Frontend users sign in on the website.</source></trans-unit>
+            <trans-unit id="settings.tasks" resname="settings.tasks"><source>Open tasks</source></trans-unit>
+            <trans-unit id="content.dashboard" resname="content.dashboard"><source>FeatValue Dashboard</source></trans-unit>
+            <trans-unit id="content.height" resname="content.height"><source>Height</source></trans-unit>
+            <trans-unit id="content.notConnected" resname="content.notConnected"><source>FeatValue is not connected.</source></trans-unit>
+            <trans-unit id="content.finishSetup" resname="content.finishSetup"><source>Finish FeatValue setup before opening the dashboard.</source></trans-unit>
+            <trans-unit id="content.ssoLoginRequired" resname="content.ssoLoginRequired"><source>Please log in to view the dashboard.</source></trans-unit>
+            <trans-unit id="content.emailVerification" resname="content.emailVerification"><source>Please confirm your email address.</source></trans-unit>
+            <trans-unit id="content.resend" resname="content.resend"><source>Send verification email again</source></trans-unit>
+            <trans-unit id="task.mailRelay.title" resname="task.mailRelay.title"><source>FeatValue mail relay</source></trans-unit>
+            <trans-unit id="task.mailRelay.description" resname="task.mailRelay.description"><source>Pulls pending FeatValue emails and sends them through TYPO3 mail.</source></trans-unit>
+        </body>
+    </file>
+</xliff>

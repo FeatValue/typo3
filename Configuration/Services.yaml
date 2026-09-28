@@ -1,0 +1,11 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+    public: false
+
+  Featvalue\Typo3\:
+    resource: '../Classes/*'
+
+  Featvalue\Typo3\Controller\BackendModuleController:
+    public: true

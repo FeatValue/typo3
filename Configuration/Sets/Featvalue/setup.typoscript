@@ -1,0 +1,10 @@
+tt_content.featvalue_dashboard =< lib.contentElement
+tt_content.featvalue_dashboard {
+    templateName = Dashboard
+    templateRootPaths {
+        10 = EXT:featvalue/Resources/Private/Templates/Content/
+    }
+    dataProcessing {
+        10 = Featvalue\Typo3\Content\DashboardProcessor
+    }
+}

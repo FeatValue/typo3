@@ -1,0 +1,21 @@
+<T3DataStructure>
+    <sheets>
+        <sDEF>
+            <ROOT>
+                <sheetTitle>FeatValue</sheetTitle>
+                <type>array</type>
+                <el>
+                    <settings.height>
+                        <label>LLL:EXT:featvalue/Resources/Private/Language/locallang.xlf:content.height</label>
+                        <config>
+                            <type>input</type>
+                            <size>40</size>
+                            <default>min(800px, 80vh)</default>
+                            <placeholder>min(800px, 80vh)</placeholder>
+                        </config>
+                    </settings.height>
+                </el>
+            </ROOT>
+        </sDEF>
+    </sheets>
+</T3DataStructure>
